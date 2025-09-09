@@ -1,0 +1,1 @@
+# CodeAlpha-TASK-2-Stock-Trading-Platform-
